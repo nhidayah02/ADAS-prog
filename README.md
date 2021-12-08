@@ -3,7 +3,7 @@ Github for ADAS Project
 Camera-based Advanced Driver Assistance System includes FCWS function using AI-based object detection and LDWS function
 
 
-LDWS anf FCWS for ADAS application
+LDWS and FCWS for ADAS application
 
 References:
 
